@@ -16,7 +16,7 @@ namespace Tyuiu.DonskoiIA.Sprint2.Task5.V14
             Console.Title = "Спринт #2 | Выполнил: Донской И. А. | АСОиУб-24-1";
             Console.WriteLine("***************************************************************************");
             Console.WriteLine("* Спринт #2                                                               *");
-            Console.WriteLine("* Тема: Тернарный оператор                                                *");
+            Console.WriteLine("* Тема: Оператор Switch                                                   *");
             Console.WriteLine("* Задание #5                                                              *");
             Console.WriteLine("* Вариант #14                                                             *");
             Console.WriteLine("* Выполнил: Донской Иван Андреевич | АСОиУб-24-1                          *");

@@ -16,7 +16,7 @@ namespace Tyuiu.DonskoiIA.Sprint2.Task3.V4
             Console.Title = "Спринт #2 | Выполнил: Донской И. А. | АСОиУб-24-1";
             Console.WriteLine("***************************************************************************");
             Console.WriteLine("* Спринт #2                                                               *");
-            Console.WriteLine("* Тема: Логические операции                                               *");
+            Console.WriteLine("* Тема: Вложенные операторы if - else                                     *");
             Console.WriteLine("* Задание #3                                                              *");
             Console.WriteLine("* Вариант #4                                                              *");
             Console.WriteLine("* Выполнил: Донской Иван Андреевич | АСОиУб-24-1                          *");
